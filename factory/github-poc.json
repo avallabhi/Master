@@ -1,0 +1,9 @@
+{
+	"name": "github-poc",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e082840b-50cb-4f8b-bd15-b24f26e23830",
+		"tenantId": "b3fddaa6-c66f-4dc6-acec-aee02fd27d25"
+	}
+}
