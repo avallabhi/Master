@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Paste your Slack webhook URL here
-SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/XXX/YYY/KKK"
+SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/XXX/YYY/ZZZ"
 
 @app.route("/github", methods=["POST"])
 def github_event():
